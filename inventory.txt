@@ -1,0 +1,22 @@
+{
+	"category": [
+		"Top"
+	],
+	"itemType": [
+		"T-shirt"
+	],
+	"itemDescription": "Gonxkilla & Southsidesupply Pokemon Stadium Boot",
+	"flaws": [
+		"General Wear"
+	],
+	"size": [
+		"XL"
+	],
+	"pit2pit": "24.5",
+	"teeLength": "28",
+	"closingText": [
+		"DM me for more information. Thanks for Looking!"
+	],
+	"hashTags": "pokemon pokemonstadium n64 nintendo videogame",
+	"price": "$40"
+}
